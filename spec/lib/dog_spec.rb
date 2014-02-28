@@ -7,10 +7,14 @@ describe Dog do
     expect(dog.name).to eq 'Pochi'
   end
 
-  xit "has fangs" do
+  it "has fangs" do
+    dog = Dog.new
+    expect(dog.fangs).to eq 2
   end
 
-  xit "is alived" do
+  it "is alived" do
+    dog = Dog.new
+    expect(dog).to be_alived
   end
 end
 
