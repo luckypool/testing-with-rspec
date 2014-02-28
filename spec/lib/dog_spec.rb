@@ -6,5 +6,11 @@ describe Dog do
     dog = Dog.new
     expect(dog.name).to eq 'Pochi'
   end
+
+  xit "has fangs" do
+  end
+
+  xit "is alived" do
+  end
 end
 
