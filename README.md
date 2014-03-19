@@ -2,6 +2,7 @@ testing-with-rspec
 ==================
 
 [![Build Status](https://travis-ci.org/luckypool/testing-with-rspec.png?branch=master)](https://travis-ci.org/luckypool/testing-with-rspec)
+[![Coverage Status](https://coveralls.io/repos/luckypool/testing-with-rspec/badge.png)](https://coveralls.io/r/luckypool/testing-with-rspec)
 
 Rubyをあまりさわったことない初心者向けの内容です。
 
